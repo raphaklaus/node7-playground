@@ -1,0 +1,23 @@
+{
+  "name": "node7-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaklaus/node7-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaklaus/node7-playground/issues"
+  },
+  "homepage": "https://github.com/raphaklaus/node7-playground#readme",
+  "dependencies": {
+    "request": "^2.76.0",
+    "request-promise": "^4.1.1"
+  }
+}
