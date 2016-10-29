@@ -10,3 +10,5 @@ async function getWebSite() {
 getWebSite();
 
 console.log(numbers.includes(1));
+
+console.log(2 ** 2);
